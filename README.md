@@ -6,7 +6,8 @@ Materials of the [ProbAI 2025](https://nordic.probabilistic.ai/) occurring on 16
 
 * **Day 1 (June 16)**:
   - Helge Langseth - *Welcome to ProbAI 2025*
-  - Silja Renooij & Antonio Salmerón - *Introduction to Probabilistic Models* [[Materials](day-1/)]
+  - Silja Renooij & Antonio Salmerón - *Introduction to Probabilistic Models* [[Slides & Materials](day-1/)]
+  - Jack K. Freser - *Probabilistic Programming Languages* [[Slides & Materials](day-1/)]
 
 ## Program
 

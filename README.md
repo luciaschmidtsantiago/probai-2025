@@ -1,6 +1,6 @@
 # ProbAI 2025 = Nordic Probabilistic AI School
 
-Materials of the [ProbAI 2025](https://nordic.probabilistic.ai/) occurring on 16-20 June 2025 in Trondheim (Norway).
+Materials of the [ProbAI 2025](https://nordic.probabilistic.ai/), also know as the Nordic Probabilistic AI School, occurring on 16-20 June 2025 in Trondheim (Norway).
 
 ## Materials
 

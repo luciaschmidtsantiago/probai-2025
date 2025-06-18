@@ -8,3 +8,4 @@
 
 * [Slides](2_MCMC_and_Bayesian_neural_networks.pdf)
 * [Tutorial](2_MCMC_and_Bayesian_neural_networks.ipynb)
+* [Google Collab](https://colab.research.google.com/github/probabilisticai/probai-2025/blob/main/day-3/2_MCMC_and_Bayesian_neural_networks.ipynb)

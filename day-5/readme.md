@@ -6,7 +6,7 @@
 you will need to install the cirkit library that you can find here: https://github.com/april-tools/cirkit (try to install it before the lecture!). 
 
 Alternatively, you can run the Google Colab notebooks code with 
-`!pip install libcirkit -q --no-deps ` added in the first line.
+`!pip install libcirkit -q --no-deps ` and `!pip install torch torchvision -q` added in the first lines.
 
 - Notebooks
     * fitting a simple GMM implemented as a circuit

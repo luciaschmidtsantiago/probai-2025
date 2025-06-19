@@ -8,3 +8,4 @@
 ## Session 2 | Flow Matching - Alexander Tong
 
 * [Slides](2_Flow_Matching.pdf)
+* [Repository](https://github.com/atong01/ProbAI-2025-flow-matching)

@@ -9,3 +9,6 @@
 
 * [Slides](2_Flow_Matching.pdf)
 * [Repository](https://github.com/atong01/ProbAI-2025-flow-matching)
+   * [Colab - Flow Matching Exercise](https://colab.research.google.com/github/atong01/ProbAI-2025-flow-matching/blob/main/Flow_matching_exercise.ipynb)
+   * [Colab - CNF](https://colab.research.google.com/github/atong01/ProbAI-2025-flow-matching/blob/main/Maximum_likelihood_CNF_tutorial.ipynb)
+   * [Colab - Mean Flows](https://colab.research.google.com/github/atong01/ProbAI-2025-flow-matching/blob/main/Mean_Flows_exercise.ipynb)

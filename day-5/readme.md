@@ -3,8 +3,10 @@
 ## Session 1 | Geometric Probabilistic Models - Viacheslav Borovitskiy
 
 ## Session 2 | Probabilistic Circuits - Antonio Vergari
-you will need to install the cirkit library that you can find here: https://github.com/april-tools/cirkit (try to install it before the lecture!). Alternatively, you can run the Google Colab notebooks code with 
-`!pip install libcirkit` added in the first line.
+you will need to install the cirkit library that you can find here: https://github.com/april-tools/cirkit (try to install it before the lecture!). 
+
+Alternatively, you can run the Google Colab notebooks code with 
+`!pip install libcirkit -q --no-deps ` added in the first line.
 
 - Notebooks
     * fitting a simple GMM implemented as a circuit

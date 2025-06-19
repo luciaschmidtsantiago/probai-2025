@@ -8,3 +8,4 @@
 
 * [Slides](2_MCMC_and_Bayesian_neural_networks.pdf)
 * [Tutorial](2_MCMC_and_Bayesian_neural_networks.ipynb)
+* [Tutorial Solution](2_MCMC_and_Bayesian_neural_networks_solution.ipynb)

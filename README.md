@@ -19,14 +19,16 @@ Materials of the [ProbAI 2025](https://nordic.probabilistic.ai/), also know as t
   - Arto Klami - *MCMC and Bayesian neural networks* [[Slides & Materials](day-3)]
 
 * **Day 4 (June 18)**:
-  - Jes Frellsen - *Deep Generative Models* [[Material](day-4)]
-  - Alexander Tong - *Flow Matching* [[Slides](day-4)]
-
-
+  - Jes Frellsen - *Deep Generative Models* [[Slides & Materials](day-4)]
+  - Alexander Tong - *Flow Matching* [[Slides & Materials](day-4)]
   
 ## Program
 
 For the detailed program, please visit our [website](https://nordic.probabilistic.ai/program).
+
+## PhD Course
+
+Project assignment at [https://github.com/probabilisticai/dt8122-2025](https://github.com/probabilisticai/dt8122-2025).
 
 ## Contact
 
